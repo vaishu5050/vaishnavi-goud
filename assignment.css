@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 50px;
+    border-color: black;
+    margin: 50px;
+}
+form{
+    font-size: xx-large;
+}
+body{
+     background-position: center;
+     background-color: blanchedalmond;
+     text-align: center;
+     border-top: 10px;
+     border-radius: 50px;
+}
